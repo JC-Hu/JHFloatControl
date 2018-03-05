@@ -1,0 +1,18 @@
+PODS:
+  - JHFloatView (0.0.1)
+  - Masonry (1.1.0)
+  - XFAssistiveTouch (0.0.1)
+
+DEPENDENCIES:
+  - JHFloatView
+  - Masonry
+  - XFAssistiveTouch (~> 0.0.1)
+
+SPEC CHECKSUMS:
+  JHFloatView: dbff9544b6481dce13a0a09ffc0d7cfc11b30368
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  XFAssistiveTouch: 9bb7289b0894b6e4752ccf6a29e654154926ec18
+
+PODFILE CHECKSUM: cecf17a351e038eb8749e18b3c7297dde280b417
+
+COCOAPODS: 1.3.1
